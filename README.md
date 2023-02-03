@@ -1,6 +1,6 @@
 # My Landing Page
 <picture>
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: light)">
   <img alt="Background image" src="/image/bg_image.jpg">
 </picture>
 <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
