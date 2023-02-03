@@ -1,11 +1,12 @@
 # My Landing Page
 
-
-<div class="links">
-  <img alt="Background image" src="/image/bg_image.jpg">
-  <h3 class="first"> About </h3>
-  <h3 class="first"> Features </h3>
-</div>
+<body>
+  <div class="links">
+    <img alt="Background image" src="/image/bg_image.jpg">
+    <h3 class="first"> About </h3>
+    <h3 class="first"> Features </h3>
+  </div>
+</body>
   
   <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
