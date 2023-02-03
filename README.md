@@ -2,13 +2,12 @@
 
   
 <img alt="Background image" src="/image/bg_image.jpg">
-About[^1] 
-Features[^2]
 
-[^1]  An aspiring software engineer looking for a chance to quick start a carreer in IT.
-[^2]  My Projects:
-      [final_capstone](/../../../../github/docs/final_capstone)
-  <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring software engineer looking for a chance to quick start a carreer in IT.
+My Projects:
+      [final_capstone](https://github.com/4rr0wh34d/final_capstone)
+
+<!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
