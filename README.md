@@ -3,7 +3,8 @@
   
 <img alt="Background image" src="/image/bg_image.jpg">
 
-An aspiring software engineer looking for a chance to quick start a carreer in IT.
+*An aspiring software engineer looking for a chance to quick start a carreer in IT.*
+
 My Projects:
       [final_capstone](https://github.com/4rr0wh34d/final_capstone)
 
