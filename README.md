@@ -1,9 +1,13 @@
 # My Landing Page
-<picture>
-  <source media="(prefers-color-scheme: light)">
+
+
+<div class="links">
   <img alt="Background image" src="/image/bg_image.jpg">
-</picture>
-<!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 class="first"> About </h3>
+  <h3 class="first"> Features </h3>
+</div>
+  
+  <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
