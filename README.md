@@ -1,6 +1,6 @@
 # My Landing Page
 
-<img alt="Background image" src="https://github.com/4rr0wh34d/4rr0wh34d/tree/main/image/background.jpg">
+<img alt="Background image" src="/image/background.jpg">
 
 <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
