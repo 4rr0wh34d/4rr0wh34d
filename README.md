@@ -2,14 +2,15 @@
 
 
   
-<img alt="Background image" src="/image/background_image.jpg">
+<img alt="Background image" src="/image/bg_image.jpg">
 
 ## My Projects:
-* [final_capstone](https://github.com/4rr0wh34d/final_capstone)
-* 
-*
+* [Final capstone](https://github.com/4rr0wh34d/final_capstone)
+* [Task Manager](https://github.com/4rr0wh34d/Task_Manager)
+* [TicTacToe](https://github.com/4rr0wh34d/TicTacToe_console)
 * [NLP](https://github.com/4rr0wh34d/NLP)
-
+* [Minesweeper](https://github.com/4rr0wh34d/minesweeper)
+* [Movie Recommendation](https://github.com/4rr0wh34d/Movie_recommendation)
 <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
