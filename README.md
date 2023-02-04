@@ -5,7 +5,7 @@
 <img alt="Background image" src="/image/bg_image.jpg">
 
 ## Contacts:
-📧 mangal2x@gmail.com  <br>       🔗 https://linkedin.com/in/rai-pratik         🔗 https://www.hyperiondev.com/portfolio/118244       
+📧 mangal2x@gmail.com  &emsp;&emsp;  🔗 https://linkedin.com/in/rai-pratik  &emsp;&emsp;  🔗 https://www.hyperiondev.com/portfolio/118244       
 ## My Projects:
 * [Final capstone](https://github.com/4rr0wh34d/final_capstone)
 * [Task Manager](https://github.com/4rr0wh34d/Task_Manager)
