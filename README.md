@@ -30,7 +30,7 @@ description from a file and recommend the user to watch the movie with the most 
   - This would be a GUI modification to my console based games.It would be based in tkinter modules.
 
 ## Looking Forward:
-As a junior software engineer i am looking to onboard a company that would help me to learn and grow into an ultimate software developer, yet at the same time get the most out of me. I have also plan on working toward software define Networking using REST API to automate Network devices like routers and switches.
+As a junior software engineer i am looking to onboard a company that would help me to learn and grow into an ultimate software developer, yet at the same time get the most out of me. I have also plan on working toward Software Define Networking using REST API to automate Network devices like routers and switches.
 
 <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
