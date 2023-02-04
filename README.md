@@ -1,13 +1,14 @@
 # My Landing Page
 
+
   
 <img alt="Background image" src="/image/bg_image.jpg">
 
-*An aspiring software engineer looking for a chance to quick start a carreer in IT.*
+*An aspiring software engineer looking for a chance to kick start a carreer in IT.*
 
-My Projects:
-      [final_capstone](https://github.com/4rr0wh34d/final_capstone)
-
+## My Projects:
+* [final_capstone](https://github.com/4rr0wh34d/final_capstone)
+* [NLP](https://github.com/4rr0wh34d/NLP)
 <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
