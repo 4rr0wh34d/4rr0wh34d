@@ -4,7 +4,7 @@
   
 <img alt="Background image" src="/image/bg_image.jpg">
 
-## Contacts:
+## 📫 How to reach me:
 📧 mangal2x@gmail.com  &emsp;&emsp;  🔗 https://linkedin.com/in/rai-pratik  &emsp;&emsp;  🔗 https://www.hyperiondev.com/portfolio/118244       
 
 ## My Projects:
@@ -34,6 +34,7 @@ description from a file and recommend the user to watch the movie with the most 
 
 ## Looking Forward:
 As a junior software engineer i am looking to onboard a company that would help me to learn and grow into an ultimate software developer, yet at the same time get the most out of me. I have also plan on working toward Software Define Networking using REST API to automate Network devices like routers and switches.
+ 
 
 <!-- **4rr0wh34d/4rr0wh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
