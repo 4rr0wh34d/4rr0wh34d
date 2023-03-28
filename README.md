@@ -8,7 +8,7 @@
 📧 mangal2x@gmail.com  &emsp;&emsp;  🔗 https://linkedin.com/in/rai-pratik  &emsp;&emsp;  🔗 https://www.hyperiondev.com/portfolio/118244       
 
 ## My Projects:
-* [Final capstone](https://github.com/4rr0wh34d/final_capstone)
+* [Nike Warehouse Management system](https://github.com/4rr0wh34d/final_capstone)
   - This project was created in order to help in the management and organisation of Nike warehouse. The project helps the user to keep track of the shoe inventory, restock it, search for certain shoe product and manage excess shoes. It is based in the concept of object oriented programming.
 * [Task Manager](https://github.com/4rr0wh34d/Task_Manager)
   - This Project was developed in order to help the user to keep track of user and their tasks. The user with administrator privilege is able to create users and assign them with their tasks. The user can also modify, delete, search and view the tasks.
@@ -22,9 +22,11 @@
   - This project is based on similarity model of spacy modules where a function takes a movie description as an argument and compare it to a list of movies'
 description from a file and recommend the user to watch the movie with the most similar description.
 
+🔭 I’m currently working on [Bookstore Management System](
+
 ## Future projects
-* Store Manager:
-  - This project would allow the user to manage and organise the store. It would help to keep record of the transactions, maintain the database of the products sold and retrieve it for bill calculation, allows user to enter new product into database, calculate and generate daily,weekly and monthly reports and use similarity model to predict the products likely to be famous based on the highest selling products. 
+* Store Manager or EPOS:
+  - This project would allow the user to manage and organise the store. It would help to keep record of day to day transactions, maintain the database of the products sold and retrieves it for calculation, allows user to enter new product into database, calculate and generate daily,weekly and monthly reports and use similarity model to predict the products likely to be famous based on the highest selling products. 
 
 * TicTacToe GUI: 
   - This would be a GUI modification to my console based games.It would be based in tkinter modules.
