@@ -22,7 +22,8 @@
   - This project is based on similarity model of spacy modules where a function takes a movie description as an argument and compare it to a list of movies'
 description from a file and recommend the user to watch the movie with the most similar description.
 
-🔭 I’m currently working on [Bookstore Management System](
+🔭 I’m currently working on [Bookstore Management System Gui](https://github.com/4rr0wh34d/Bookstore-Management-System)
+  - A Gui based python program based in tkinter modules. It also uses sqlite database modules to record and maintain the book database and uses openpxl to manipulate the excel sheets. Here the concept of OOP has been used to break the program into multiple files and also for reusability. This project will also feature an EPOS functionality that will help in recording the day to day sales.
 
 ## Future projects
 * Store Manager or EPOS:
